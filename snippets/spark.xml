@@ -37,7 +37,7 @@
   
   <remote name="pe"
           fetch="https://github.com/PixelExperience"
-          revision="twelve"
+          revision="twelve" />
 
   <!-- Remove unused hardware repos -->
   <remove-project name="device/amlogic/yukawa" />
